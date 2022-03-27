@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-12T16:12:26 ICT" name="Default suite" finished-at="2022-03-12T16:12:36 ICT" duration-ms="10247">
+  <suite started-at="2022-03-26T22:05:12 ICT" name="Default suite" finished-at="2022-03-26T22:05:39 ICT" duration-ms="26305">
     <groups>
     </groups>
-    <test started-at="2022-03-12T16:12:26 ICT" name="Default test" finished-at="2022-03-12T16:12:36 ICT" duration-ms="10247">
-      <class name="TestingRefill.Test_Login">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestingRefill.Test_Login@5a936e64]" started-at="2022-03-12T16:12:26 ICT" name="beforeClass" finished-at="2022-03-12T16:12:29 ICT" duration-ms="3653" status="PASS">
+    <test started-at="2022-03-26T22:05:12 ICT" name="Default test" finished-at="2022-03-26T22:05:39 ICT" duration-ms="26305">
+      <class name="TestingRefill.Test_Contact">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestingRefill.Test_Contact@276cc8dc]" started-at="2022-03-26T22:05:12 ICT" name="beforeClass" finished-at="2022-03-26T22:05:23 ICT" duration-ms="10178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_08_Forgot_Pass_()[pri:0, instance:TestingRefill.Test_Login@5a936e64]" started-at="2022-03-12T16:12:30 ICT" name="TC_08_Forgot_Pass_" finished-at="2022-03-12T16:12:35 ICT" duration-ms="5369" status="PASS">
+        <test-method signature="TC_01_Contact_Valid_Data()[pri:0, instance:TestingRefill.Test_Contact@276cc8dc]" started-at="2022-03-26T22:05:23 ICT" name="TC_01_Contact_Valid_Data" finished-at="2022-03-26T22:05:36 ICT" duration-ms="13587" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_08_Forgot_Pass_ -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestingRefill.Test_Login@5a936e64]" started-at="2022-03-12T16:12:35 ICT" name="afterClass" finished-at="2022-03-12T16:12:36 ICT" duration-ms="1121" status="PASS">
+        </test-method> <!-- TC_01_Contact_Valid_Data -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestingRefill.Test_Contact@276cc8dc]" started-at="2022-03-26T22:05:36 ICT" name="afterClass" finished-at="2022-03-26T22:05:39 ICT" duration-ms="2306" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- TestingRefill.Test_Login -->
+      </class> <!-- TestingRefill.Test_Contact -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
